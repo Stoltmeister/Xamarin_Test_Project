@@ -1,0 +1,10 @@
+C:\Xamarin\Xamarin_Test_Project\netstandard2.0\Xamarin_Test_Project.csprojAssemblyReference.cache
+C:\Xamarin\Xamarin_Test_Project\netstandard2.0\Xamarin_Test_Project.csproj.CoreCompileInputs.cache
+C:\Xamarin\Xamarin_Test_Project\netstandard2.0\Xamarin_Test_Project.AssemblyInfoInputs.cache
+C:\Xamarin\Xamarin_Test_Project\netstandard2.0\Xamarin_Test_Project.AssemblyInfo.cs
+C:\Xamarin\Xamarin_Test_Project\Xamarin_Test_Project\Xamarin_Test_Project\bin\Debug\netstandard2.0\Xamarin_Test_Project.deps.json
+C:\Xamarin\Xamarin_Test_Project\Xamarin_Test_Project\Xamarin_Test_Project\bin\Debug\netstandard2.0\Xamarin_Test_Project.dll
+C:\Xamarin\Xamarin_Test_Project\Xamarin_Test_Project\Xamarin_Test_Project\bin\Debug\netstandard2.0\Xamarin_Test_Project.pdb
+C:\Xamarin\Xamarin_Test_Project\netstandard2.0\XamlC.stamp
+C:\Xamarin\Xamarin_Test_Project\netstandard2.0\Xamarin_Test_Project.dll
+C:\Xamarin\Xamarin_Test_Project\netstandard2.0\Xamarin_Test_Project.pdb

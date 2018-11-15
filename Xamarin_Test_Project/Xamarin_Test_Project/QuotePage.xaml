@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Test_Project.QuotePage">
+    
+    <StackLayout BindingContext="{x:Reference slider}" HorizontalOptions="Center" VerticalOptions="Center" Spacing="10">
+        <Button Text="Next"
+                Clicked="Button_Clicked" />
+        <Label                
+            Text="{Binding Value,            
+            StringFormat='Font Size: {0}'}"            
+            FontSize="{Binding Value}"               
+            />
+        
+        <Slider x:Name="slider" />
+        <Label
+        x:Name="Quote"/>
+    </StackLayout>
+   
+</ContentPage>
